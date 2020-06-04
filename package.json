@@ -1,6 +1,6 @@
 {
   "name": "country-code-splitter",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Split country code and mobile number from mobile number. The module returns mobile number and country code.",
   "main": "index.js",
   "scripts": {
