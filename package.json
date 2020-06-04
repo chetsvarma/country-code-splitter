@@ -18,5 +18,9 @@
     "number"
   ],
   "author": "Chetankumar Varma",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chetsvarma/country-code-splitter.git"
+  }
 }
