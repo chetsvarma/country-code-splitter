@@ -12,7 +12,7 @@ npm install country-code-splitter --save
 Ex : 
 
 ```
-var country_splitter = require('country-code-splitter');
+let country_splitter = require('country-code-splitter');
 console.log(country_splitter.getNumber("+160987654329"));
 ```
 
