@@ -3,7 +3,7 @@ function splitNumber(value) {
 	
 	value = value.trim();
 
-	if(!value.includes["+"]){
+	if(!value.includes("+")){
 		value = `+${value}`;
 	}
 
